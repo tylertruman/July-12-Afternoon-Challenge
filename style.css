@@ -1,0 +1,53 @@
+h1 {
+    color: white;
+    background-color: rgb(50, 50, 187);
+    height: 75px;
+    border: solid black 2.5px;
+    text-align: center;
+    line-height: 75px;
+    font-family: sans-serif;
+}
+
+h2 {
+    text-align: center;
+}
+
+hr {
+    color: rgb(50, 50, 187);
+    width: 75%;
+    height: 20px;
+    background-color: rgba(59, 147, 247, 0.406);
+    border: none;
+}
+
+img {
+    height: 40%;
+    width: 75%;
+    padding: 25px;
+}
+
+body {
+    margin: 1px;
+}
+
+.div2 {
+    max-width: 50%;
+    margin: 5% 5% 10% 10%;
+}
+
+.div3 {
+    margin-top: 7%;
+}
+.d-flex {
+    display: flex;
+    
+}
+
+footer {
+    background-color: rgb(50, 50, 187);
+    height: 75px;
+    border: solid black 2.5px;
+    
+}
+
+
